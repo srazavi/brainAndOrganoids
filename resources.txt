@@ -1,0 +1,27 @@
+Pandas:
+- To access a column in a Pandas Dataframe and to convert it to a list:
+https://stackoverflow.com/questions/23748995/pandas-dataframe-column-to-list
+
+- To filter a Dataframe by the values in the indexes (not used):
+https://stackoverflow.com/questions/56560958/how-to-filter-dataframe-on-index-and-column-value
+
+
+
+Python:
+- One-line python  if/else:
+https://stackoverflow.com/questions/2802726/putting-a-simple-if-then-else-statement-on-one-line 
+
+- Check if object is none:
+https://stackoverflow.com/questions/2710940/python-if-x-is-not-none-or-if-not-x-is-none  
+
+- Chain method calls indentation:
+https://stackoverflow.com/questions/8683178/chained-method-calls-indentation-style-in-python
+
+
+
+AnnData:
+- To use AnnData, the notes are very helpful. They helped me to understand how to get data by index:
+https://anndata.readthedocs.io/en/latest/anndata.AnnData.html
+
+- Indexing into anndata:
+https://github.com/theislab/anndata/issues/35

@@ -1,0 +1,6 @@
+Nov. 9th
+
+To do:
+- Try changing the assignment of meta data frame to ad.varm rather than ad.var
+(see: https://anndata.readthedocs.io/en/latest/anndata.AnnData.html, notes, par. 2)
+
