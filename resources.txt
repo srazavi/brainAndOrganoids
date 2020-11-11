@@ -5,6 +5,9 @@ https://stackoverflow.com/questions/23748995/pandas-dataframe-column-to-list
 - To filter a Dataframe by the values in the indexes (not used):
 https://stackoverflow.com/questions/56560958/how-to-filter-dataframe-on-index-and-column-value
 
+- To get the average of a column:
+https://stackoverflow.com/questions/31037298/pandas-get-column-average-mean
+
 
 
 Python:
