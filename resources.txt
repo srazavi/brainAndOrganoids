@@ -8,6 +8,12 @@ https://stackoverflow.com/questions/56560958/how-to-filter-dataframe-on-index-an
 - To get the average of a column:
 https://stackoverflow.com/questions/31037298/pandas-get-column-average-mean
 
+- To create a pandas data frame for programmatically generated 2D data:
+https://pandas.pydata.org/docs/user_guide/dsintro.html#from-dict-of-ndarrays-lists
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html (see constructor using np.array)
+
+
+
 
 
 Python:
