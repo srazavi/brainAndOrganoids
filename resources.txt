@@ -26,6 +26,8 @@ https://stackoverflow.com/questions/2710940/python-if-x-is-not-none-or-if-not-x-
 - Chain method calls indentation:
 https://stackoverflow.com/questions/8683178/chained-method-calls-indentation-style-in-python
 
+- Converting a list of lists into a dictionary:
+https://stackoverflow.com/questions/38565104/how-to-name-list-of-lists-in-python
 
 
 AnnData:

@@ -4,5 +4,13 @@ To do:
 - Try changing the assignment of meta data frame to ad.varm rather than ad.var
 (see: https://anndata.readthedocs.io/en/latest/anndata.AnnData.html, notes, par. 2)
 
-Nov. 12th
+Nov. 15th
+
+Need rules on wildcard search, as some gene variants (especaially with different numbers at the end) are present in the dataset. 
+
+I was confused about why HepaCAM was not included in the list of variables when I check for lower cased substrings both ways, but the format of the gene names in the dataset makes this useful only in one direction (dataset format: "HEPACAM|HEPACAM".
+
+To do:
+- Find out why that is a useful format
+- Add wildcard comparison of gene names to check for matches, using regular expressions
 
