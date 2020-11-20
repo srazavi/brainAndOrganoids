@@ -12,7 +12,8 @@ https://stackoverflow.com/questions/31037298/pandas-get-column-average-mean
 https://pandas.pydata.org/docs/user_guide/dsintro.html#from-dict-of-ndarrays-lists
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html (see constructor using np.array)
 
-
+- To add another index to existing dataframe:
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.set_index.html
 
 
 
